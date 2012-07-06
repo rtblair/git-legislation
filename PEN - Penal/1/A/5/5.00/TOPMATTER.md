@@ -1,0 +1,1 @@
+The general rule that a penal statute is to be strictly construed does not apply to this chapter, but the provisions herein must be construed according to the fair import of their terms to promote justice and effect the objects of the law.

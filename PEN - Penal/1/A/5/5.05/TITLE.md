@@ -1,0 +1,1 @@
+Application of chapter to offenses committed before and after enactment.

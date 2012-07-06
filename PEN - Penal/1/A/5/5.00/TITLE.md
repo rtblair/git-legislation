@@ -1,0 +1,1 @@
+Penal law not strictly construed

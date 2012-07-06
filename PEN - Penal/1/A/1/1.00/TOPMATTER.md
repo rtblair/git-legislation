@@ -1,0 +1,1 @@
+This chapter shall be known as the "Penal Law. "
