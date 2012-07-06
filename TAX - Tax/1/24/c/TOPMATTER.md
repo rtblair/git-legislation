@@ -1,1 +1,1 @@
-Cross-references. For application of the credit provided for in this section, see the following provisions of this chapter:
+For a feature film or television production, writers' fees and salaries shall be eligible production costs only if the writer is a resident of this state and either:
