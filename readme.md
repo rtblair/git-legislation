@@ -7,7 +7,7 @@ Here are a few of the conventions I'm currently following and the reasoning behi
 
 **1. Breaking consolidated laws down to the paragraph level.**
 
-Bills in the New York State legislature are often ammending existing law. 
+Bills in the New York State legislature are often ammending existing law. Some bills create entirely new supersections of law (often categorized as "unconsolidated laws" in the existing corpus), but those are rare.
 
 A typical bill consists of a purpose followed by a series of changes to marked-up paragraphs. A bill let's you know which text is added to the paragraph-in-question by rendering it in all-caps typography. Text being removed from a law is often rendered with strike-through typography and enclosed in brackets. Take [S4199](http://open.nysenate.gov/legislation/bill/S4199-2011) as an example.
 
